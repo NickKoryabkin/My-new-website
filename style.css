@@ -1,0 +1,40 @@
+body {
+    background-color:#f8f8f8 ;
+  }
+  /* bgcolor="#4169E1" background="yz1.jpg" text="#FFFFFF" */
+  a {
+    color: #dd6060;
+    font-family: 'gabriola';
+    font-weight: 400;
+  }
+  h2 {
+    background-color:  #000000;
+    color: rgb(202, 166, 166);
+    font: 18px;
+    font-weight: 400;
+  }
+  h3 {
+    background-color:  #772c2c;
+    color: rgb(182, 79, 79);
+    font: 18px;
+    font-weight: 400;
+  }
+  .first {
+    color: #fd5555;
+    font: 14px;
+    font-style: gabriola;
+    line-height: 16px; 
+  }
+  .second {
+    color: #af4444;
+    font: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left; 
+  }
+  .third {
+    color: #c57a0a;
+    font: 15px;
+    font-weight: 500;
+    line-height: 20px;
+  }

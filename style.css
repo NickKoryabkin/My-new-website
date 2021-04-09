@@ -19,21 +19,21 @@ body {
     font-weight: 400;
   }
   .first {
-    color: #fd5555;
+    color: #707070;
     font: 14px;
-    font-style: gabriola;
+    font-style: italic;
     line-height: 16px; 
   }
   .second {
-    color: #af4444;
+    color: #484343;
     font: 16px;
     font-weight: 400;
     line-height: 24px;
     text-align: left; 
   }
   .third {
-    color: #c57a0a;
-    font: 15px;
-    font-weight: 500;
-    line-height: 20px;
+    color: #000000;
+    font: 18px;
+    font-weight: 400;
+    background-color: #eaeaea;
   }

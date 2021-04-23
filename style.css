@@ -40,7 +40,10 @@ body {
   a:hover{
     color: aqua;
   }
-  .fourth {
-  height: 15px;
+  input {
+  height: 20px;
   width: 200px;
+  }
+  .fourth::first-letter{
+    text-transform: uppercase;
   }

@@ -41,5 +41,7 @@ body {
     color: aqua;
   }
   .fourth {
-    text-transform: uppercase;
+  height: 15px;
+  width: 200px;
   }
+

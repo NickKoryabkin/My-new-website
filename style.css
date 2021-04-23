@@ -37,3 +37,9 @@ body {
     font-weight: 400;
     background-color: #eaeaea;
   }
+  a:hover{
+    color: aqua;
+  }
+  .fourth {
+    text-transform: uppercase;
+  }

@@ -40,14 +40,32 @@ body {
   a:hover{
     color: aqua;
   }
-  input {
-  height: 20px;
-  width: 200px;
+  .sixth {
+    outline:3px solid;
+    outline-color: #c191ee;
   }
-  .fourth:first-letter{
-    text-transform: uppercase;
+  .sixth:hover {
+    outline: none;
   }
-  .fiths{
-    color: darkgreen;
-    border-color: rgb(255, 204, 1);
-  }
+  input[type="text"], input[type="email"],textarea
+{
+    background: #d6d5d5;
+    font-size: 18px;
+    color: #000000;
+    font-style:arial;
+    width: 200px;
+    height: 20px;
+    text-transform: capitalize; 
+}
+input[type="email"]:focus
+{
+    background: rgb(136, 219, 125);
+    color: #110624;
+}
+table
+{
+    border:1px solid rgb(59, 1, 1);
+    border-collapse: collapse;
+    width: 550px;
+    height: 100px;
+}

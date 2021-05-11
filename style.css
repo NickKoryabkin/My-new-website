@@ -69,3 +69,27 @@ table
     width: 550px;
     height: 100px;
 }
+.contenier{
+  width: 10px;
+  left:30%;
+}
+header{
+  height: 100%;
+  right: 15px;
+  left: 20px;
+}
+footer{
+  height:60px;
+  background-color: #c191ee;
+  position:absolute;
+  right: 20px;
+  top: 270%;
+}
+.eight{
+  top:40px
+}
+.ninth:hover{
+  color: #ff0000;
+  font: 14px;
+  font-style: italic;
+}

@@ -83,7 +83,6 @@ footer{
   background-color: #c191ee;
   position:absolute;
   right: 20px;
-  top: 270%;
 }
 .eight{
   top:40px
@@ -92,4 +91,10 @@ footer{
   color: #ff0000;
   font: 14px;
   font-style: italic;
+}
+h4 {
+  color: #220202;
+  font: 20px;
+  font-style: italic;
+  line-height: 30px; 
 }

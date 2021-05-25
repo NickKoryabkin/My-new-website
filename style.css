@@ -82,7 +82,9 @@ footer{
   height:60px;
   background-color: #c191ee;
   position:absolute;
-  right: 20px;
+  right: 60px;
+  top:auto;
+  
 }
 .eight{
   top:40px
@@ -110,3 +112,11 @@ h4 {
   margin-right: 30px;
   margin-top: 30px;
 }
+.twelth{
+  float: left;
+  display: block;
+  width: 300px;
+  margin: 2px; 
+}
+
+
